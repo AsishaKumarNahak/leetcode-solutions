@@ -94,3 +94,15 @@ This repository serves as a record of my coding journey and continuous practice 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
