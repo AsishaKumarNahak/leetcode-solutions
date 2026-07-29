@@ -15,7 +15,7 @@ The solutions are implemented in multiple programming languages based on the req
 
 ## 🛠️ Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql&theme=dark" />
 
 </div>
 
