@@ -106,6 +106,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [0001-two-sum](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -115,12 +116,22 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
