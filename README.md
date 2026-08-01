@@ -101,6 +101,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0001-two-sum) |
+| [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -134,4 +136,16 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
