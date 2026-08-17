@@ -104,6 +104,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -124,6 +125,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -168,6 +170,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -179,6 +182,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
