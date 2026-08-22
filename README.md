@@ -130,6 +130,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
