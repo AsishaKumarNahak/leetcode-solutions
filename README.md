@@ -126,6 +126,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -135,6 +136,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1927-sum-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +146,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -184,6 +187,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
