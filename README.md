@@ -109,6 +109,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
