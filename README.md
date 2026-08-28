@@ -120,6 +120,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -145,6 +146,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +156,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +173,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [2029-stone-game-ix](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +211,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
