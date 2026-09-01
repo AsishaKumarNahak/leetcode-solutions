@@ -110,6 +110,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -121,6 +122,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -208,6 +210,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -242,6 +245,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -263,4 +267,8 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
