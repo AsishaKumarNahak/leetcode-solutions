@@ -146,6 +146,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -187,6 +188,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
