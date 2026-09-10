@@ -212,6 +212,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -282,4 +283,12 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
