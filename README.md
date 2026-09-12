@@ -110,6 +110,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -181,6 +182,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -198,6 +200,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -295,4 +298,8 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
