@@ -102,6 +102,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [0001-two-sum](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -285,6 +286,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
