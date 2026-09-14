@@ -136,6 +136,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -304,4 +305,8 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
