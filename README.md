@@ -141,6 +141,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -325,6 +326,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
