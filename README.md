@@ -167,6 +167,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -225,6 +226,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0877-stone-game) |
@@ -277,6 +279,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -373,6 +376,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
