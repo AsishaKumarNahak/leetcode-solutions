@@ -170,6 +170,7 @@ This repository serves as a record of my coding journey and continuous practice 
 | [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -265,6 +266,7 @@ This repository serves as a record of my coding journey and continuous practice 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -283,6 +285,7 @@ This repository serves as a record of my coding journey and continuous practice 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AsishaKumarNahak/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
